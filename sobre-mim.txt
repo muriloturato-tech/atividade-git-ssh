@@ -1,2 +1,3 @@
 agora foi
 Aprendi a configurar SSH e trabalhar com branches no Git.
+Esta linha foi adicionada diretamente pelo GitHub em uma branch separada.
